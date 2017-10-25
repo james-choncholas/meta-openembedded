@@ -1,3 +1,13 @@
+***
+
+clone of meta-openembedded at commit hash b40116cf457b88a2db14b86fda9627fb34d56ae6
+
+To get the original:
+ $ git clone -b morty git://git.openembedded.org/meta-openembedded
+
+***
+
+
 Collection of layers for the OE-core universe
 
 Please see the respective READMEs in the layer subdirectories
